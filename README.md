@@ -21,7 +21,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install web platform installer
 - Install C++ redistributable
 - Install MySQL and set up the username/password
-- Configure permissions and install osTicket
+- Install osTicket
   
 <h2>Installation Steps</h2>
 
@@ -79,3 +79,36 @@ Installing the Visual C++ Redistributable is important because many parts of osT
 
 
 <br />
+
+<h3>Step 4:</h3>
+
+<p>
+
+I installed MySQL Database and set up the username and password. 
+
+Installing MySQL is crucial because it acts as the central storage system for osTicket’s data. Imagine it as a digital filing cabinet where all support tickets, customer details, and settings are organized. Without MySQL, osTicket wouldn’t have a place to store or retrieve this important information when needed.
+</p>
+
+![image](https://github.com/user-attachments/assets/abde783a-0218-4572-b92c-fd10d3134ee2)
+
+
+<h3>Step 5:</h3>
+
+<p>
+
+Next, I installed osTicket to organize and track customer support requests, making it easier for teams to manage and resolve issues.
+
+</p>
+
+<img width="1109" alt="Screenshot 2025-02-20 at 1 04 16 PM" src="https://github.com/user-attachments/assets/d9564311-dd4c-4c21-be05-ea719440fca8" />
+
+<img width="1128" alt="Screenshot 2025-02-20 at 1 07 32 PM" src="https://github.com/user-attachments/assets/4639290f-e771-4a79-87c2-e4218d6b2816" />
+
+<img width="1130" alt="Screenshot 2025-02-20 at 1 49 13 PM" src="https://github.com/user-attachments/assets/51d8ec25-b3ef-494c-95ba-9eb6206d66f3" />
+
+<img width="1067" alt="Screenshot 2025-02-20 at 1 52 35 PM" src="https://github.com/user-attachments/assets/bd41655b-ce8a-4120-962c-7514829a8bb3" />
+
+<img width="1435" alt="Screenshot 2025-02-20 at 1 53 58 PM" src="https://github.com/user-attachments/assets/e6e19e2d-77ba-44b8-b43a-19d0c6df61c3" />
+
+
+
