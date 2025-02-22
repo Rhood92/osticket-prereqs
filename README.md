@@ -98,7 +98,7 @@ The final step was installing **osTicket**, which organizes and tracks customer 
 ---
 
 ## Conclusion
-This tutorial documented the **prerequisites and installation** of **osTicket**, a powerful **open-source help desk ticketing system**. By following these steps, you can successfully set up osTicket on **Windows 10 with IIS and MySQL**.
+This tutorial documented the **prerequisites and installation** of **osTicket**, a powerful **open-source help desk ticketing system**. By following these steps, you can successfully set up osTicket on **Windows 10 with IIS and MySQL**. Check out the next section of my project entitled "osTicket Installation and Configuration". 
 
 
 ---
